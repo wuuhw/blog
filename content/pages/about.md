@@ -1,12 +1,27 @@
 ---
-title: "About me"
+title: "关于我"
 template: "page"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+# 个人信息
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+ - wuhw/男/1994 
+ - 本科 
+ - 工作年限：4年
+ - 技术博客：https://wuhw.netlify.com
+ - Github：http://github.com/wuuhw
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+   
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+# 技能清单
+
+- Web开发：/JavaScript/Node/php
+- Web框架：Exepress/Koa/Yii
+- 前端框架：React.js/Vue.js
+- 前端工具：Webpack/Bower/Gulp/SaSS/PostCss
+- 数据库相关：MySQL/mongodb
+- 版本管理、文档和自动化部署工具：Git/Svn
+- 单元测试：jest/chrome headless
+- 云和开放平台: 微信应用开发
+  
+
