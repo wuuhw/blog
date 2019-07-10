@@ -6,7 +6,7 @@ module.exports = {
   title: '梦里仗剑天涯的个人博客',
   subtitle: '梦里仗剑天涯，<br/> 醒时码海无边。',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'wuhw.disqus.com',
   postsPerPage: 5,
   googleAnalyticsId: 'UA-73379983-2',
   menu: [
