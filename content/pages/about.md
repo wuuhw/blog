@@ -3,7 +3,7 @@ title: "关于我"
 template: "page"
 ---
 
-# 个人信息
+### 个人信息
 
  - wuhw/男/1994 
  - 本科 
@@ -13,7 +13,7 @@ template: "page"
 
    
 
-# 技能清单
+### 技能清单
 
 - Web开发：/JavaScript/Node/php
 - Web框架：Exepress/Koa/Yii
