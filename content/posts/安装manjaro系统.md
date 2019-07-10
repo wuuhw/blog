@@ -24,7 +24,20 @@ dsadas
 ##### 分区
 dasdasd
 111
+
+```javascript
+export default {
+    name: 'wuhw',
+    age: 2
+}
+```
+
+
+
+
+
 ### 使用
 
 dasdasdasdasdas
+
 ##### 快捷键
