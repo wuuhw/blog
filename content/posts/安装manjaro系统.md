@@ -25,6 +25,9 @@ dsadas
 dasdasd
 111
 
+![](http://aitting.cn/blog/el6ed.png)
+
+
 ```javascript
 export default {
     name: 'wuhw',
