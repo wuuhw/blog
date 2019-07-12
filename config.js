@@ -8,7 +8,7 @@ module.exports = {
   copyright: '© All rights reserved.',
   disqusShortname: 'wuhw',
   postsPerPage: 5,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-143778420-1',
   menu: [
     {
       label: '所有文章',
